@@ -1,0 +1,28 @@
+{
+  "active_contract_count": 73187,
+  "active_event_count": 8090,
+  "api_base_url": "https://external-api.kalshi.com/trade-api/v2",
+  "api_market_filter": "status=open, mve_filter=exclude",
+  "bucket_by_category": {
+    "Commodities": "macro",
+    "Companies": "single-industry",
+    "Crypto": "single-industry",
+    "Economics": "macro",
+    "Elections": "policy",
+    "Financials": "macro",
+    "Health": "single-industry",
+    "Politics": "policy",
+    "Science and Technology": "single-industry",
+    "Transportation": "single-industry",
+    "World": "geopolitical"
+  },
+  "explicitly_excluded_categories": [
+    "Entertainment",
+    "Sports"
+  ],
+  "filtered_output": "data/kalshi_active_contracts_filtered.csv",
+  "full_output": "data/kalshi_active_contracts_full.csv",
+  "retained_contract_count": 26224,
+  "snapshot_utc": "2026-07-20T23:00:00.632459+00:00",
+  "universe_scope": "complete active standalone-contract universe; multivariate combinations excluded"
+}

@@ -1,0 +1,4 @@
+estimate,delta_E,standard_error,n_obs,inference,role
+Full-sample OLS,-0.3313107572224525,0.1009802608625143,108,"Newey–West, 5 lags",Robustness
+Event-window high-signal subsample,-0.23420197593491004,0.11271569865241254,15,"Newey–West, 5 lags",Headline / sizing
+2016 comparable-event anchor,-0.11288303178239041,,1,SE not identifiable from one event,Calibration anchor

@@ -1,0 +1,3 @@
+scenario,Q,yes_shares_to_buy,b_effective_spread_cost,c_linear_price_impact_cost,order_as_multiple_of_1h_traded_volume,effective_spread_bps_of_Q,price_impact_bps_of_Q,total_friction_bps_of_Q,impact_share_of_total_friction,verdict
+Q_retail,100000.0,23420.197593491,17.573233894438935,0.389694570840462,0.03493857994166703,1.7573233894438938,0.0389694570840462,1.79629284652794,0.02169437859721503,Single-digit bps; plausible at observed scale
+Q_inst,50000000.0,11710098.7967455,8786.616947219467,96819.29557845736,17.469289970833515,1.7573233894438933,19.363859115691472,21.121182505135366,0.9167980585832909,Impact dominates; infeasible without slicing or blocks

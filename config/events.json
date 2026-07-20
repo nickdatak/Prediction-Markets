@@ -1,0 +1,27 @@
+{
+  "timestamp_timezone": "UTC",
+  "timestamp_source": {
+    "authors": "Tsang & Yang",
+    "arxiv_id": "2603.03152",
+    "url": "https://arxiv.org/abs/2603.03152"
+  },
+  "events": {
+    "presidential_debate": {
+      "label": "Presidential debate",
+      "timestamp_utc": "2024-06-28T01:00:00Z"
+    },
+    "trump_assassination_attempt": {
+      "label": "Trump assassination attempt",
+      "timestamp_utc": "2024-07-13T22:11:00Z"
+    },
+    "biden_dropout": {
+      "label": "Biden dropout",
+      "timestamp_utc": "2024-07-21T17:46:00Z"
+    },
+    "election_night": {
+      "label": "Election night",
+      "start_date_utc": "2024-11-05",
+      "end_date_utc": "2024-11-06"
+    }
+  }
+}

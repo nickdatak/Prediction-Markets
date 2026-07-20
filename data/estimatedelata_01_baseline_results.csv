@@ -1,0 +1,2 @@
+specification,sample_start,sample_end,n_obs,newey_west_lags,beta_delta_p,se_beta_delta_p,p_value_beta_delta_p,alpha,gamma_spy,r_squared
+Baseline robustness: TAN on Δp and SPY,2024-06-01,2024-11-04,108,5,-0.3313107572224525,0.1009802608625143,0.0014047431545304925,-0.0018145459530282836,0.8714402921197695,0.20016361057346665

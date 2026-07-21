@@ -1,6 +1,6 @@
 {
-  "active_contract_count": 73187,
-  "active_event_count": 8090,
+  "active_contract_count": 69763,
+  "active_event_count": 8111,
   "api_base_url": "https://external-api.kalshi.com/trade-api/v2",
   "api_market_filter": "status=open, mve_filter=exclude",
   "bucket_by_category": {
@@ -22,7 +22,19 @@
   ],
   "filtered_output": "data/kalshi_active_contracts_filtered.csv",
   "full_output": "data/kalshi_active_contracts_full.csv.gz",
-  "retained_contract_count": 26224,
-  "snapshot_utc": "2026-07-20T23:00:00.632459+00:00",
+  "liquidity_screen": {
+    "candidate_count": 14785,
+    "capacity_definition": "sum(YES ask price \u00d7 contracts) over all YES asks within spread limit of best YES bid",
+    "liquid_output": "data/kalshi_active_contracts_liquid_10k_5c.csv",
+    "minimum_cumulative_yes_ask_depth_dollars": 10000.0,
+    "orderbook_batch_size": 100,
+    "orderbook_endpoint": "/markets/orderbooks",
+    "orderbook_snapshot_start_utc": "2026-07-21T14:31:46.163988+00:00",
+    "retained_contract_count": 381,
+    "spread_limit_dollars": 0.05,
+    "yes_ask_construction": "1 - NO bid price"
+  },
+  "retained_contract_count": 28027,
+  "snapshot_utc": "2026-07-21T14:31:12.859641+00:00",
   "universe_scope": "complete active standalone-contract universe; multivariate combinations excluded"
 }

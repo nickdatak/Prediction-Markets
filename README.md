@@ -25,6 +25,6 @@ All election-horizon calculations use the November 4, 2024 20:00 UTC entry times
 
 ## Kalshi census snapshot
 
-The active standalone-contract snapshot was captured at **2026-07-20 23:00 UTC**. It contains 73,187 active contracts before research filtering and 26,224 after filtering to macro, policy, single-industry, and geopolitical categories.
+The active standalone-contract snapshot was captured at **2026-07-21 14:25 UTC**. It contains 69,788 active contracts before research filtering and 28,035 after filtering to macro, policy, single-industry, and geopolitical categories.
 
-The complete raw census is stored as `data/kalshi_active_contracts_full.csv.gz` to keep repository size manageable. The smaller screened research universe remains available at `data/kalshi_active_contracts_filtered.csv`.
+The complete raw census is stored as `data/kalshi_active_contracts_full.csv.gz` to keep repository size manageable. The smaller screened research universe remains available at `data/kalshi_active_contracts_filtered.csv`. The live multi-level $10,000 / 5¢ screen retains 367 contracts based on cumulative YES-ask capacity, not just best-level depth.

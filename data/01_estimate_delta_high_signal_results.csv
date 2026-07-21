@@ -1,2 +1,2 @@
 specification,sample_start,sample_end,n_obs,event_window_obs,top_decile_day_obs,abs_delta_p_cutoff,newey_west_lags,beta_delta_p,se_beta_delta_p,p_value_beta_delta_p,alpha,gamma_spy,r_squared,delta_E_for_0_to_1
-High-signal headline: event windows plus top-decile |Δp| days,2024-06-01,2024-11-04,15,3,12,0.03,5,-0.23420197593491004,0.11271569865241254,0.05985450131091219,0.0018905625536471816,0.9838497213076249,0.3566716306945279,-0.23420197593491004
+High-signal headline: event windows plus top-decile |Δp| days,2024-06-01,2024-11-04,15,3,12,0.03,5,-0.23420197593491024,0.11271569865241257,0.05985450131091205,0.00189056255364717,0.9838497213076249,0.3566716306945281,-0.23420197593491024

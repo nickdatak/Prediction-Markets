@@ -1,9 +1,9 @@
 scenario,component,contribution_pct_Q
-Q_retail,Phase 2: ΔE estimation error,-3.3414145534836597
+Q_retail,Phase 2: ΔE estimation error,-3.1774731703292107
 Q_retail,p_s ≠ p convergence (5-day minus 1-day),-7.187137693940793
-Q_retail,Phase 3: friction,-0.0179629284652794
-Q_retail,Total hedged residual,-10.54651517588973
-Q_inst,Phase 2: ΔE estimation error,-3.3414145534836597
+Q_retail,Phase 3: friction,-0.01796009119756615
+Q_retail,Total hedged residual,-10.38257095546757
+Q_inst,Phase 2: ΔE estimation error,-3.1774731703292107
 Q_inst,p_s ≠ p convergence (5-day minus 1-day),-7.187137693940793
-Q_inst,Phase 3: friction,-0.21121182505135372
-Q_inst,Total hedged residual,-10.739764072475806
+Q_inst,Phase 3: friction,-0.20990759570395065
+Q_inst,Total hedged residual,-10.574518459973953

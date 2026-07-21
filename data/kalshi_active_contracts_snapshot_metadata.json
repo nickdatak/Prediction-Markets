@@ -21,7 +21,7 @@
     "Sports"
   ],
   "filtered_output": "data/kalshi_active_contracts_filtered.csv",
-  "full_output": "data/kalshi_active_contracts_full.csv",
+  "full_output": "data/kalshi_active_contracts_full.csv.gz",
   "retained_contract_count": 26224,
   "snapshot_utc": "2026-07-20T23:00:00.632459+00:00",
   "universe_scope": "complete active standalone-contract universe; multivariate combinations excluded"
